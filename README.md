@@ -27,7 +27,7 @@ Step 4.
 In the Controller type this:
 Use the namespace and model like so: using MVCEmployeeViewModel1.Models;
 
-Make the database connection public so that it can be sen by your new class.
+Make the database connection public so that it can be seen by your new class.
 public mikeEntities db = new mikeEntities();
 
 Build the view like so:
